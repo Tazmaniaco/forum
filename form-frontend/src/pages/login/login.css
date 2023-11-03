@@ -1,0 +1,28 @@
+@import url(../../../public/font.css);
+
+body {
+    font-family: ClashDisplay-Variable;
+    background-color: #5DC472;
+}
+
+.Nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ForgotPassword {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    
+    width: 100%;
+    display: flex;
+    justify-content: flex-end; 
+}

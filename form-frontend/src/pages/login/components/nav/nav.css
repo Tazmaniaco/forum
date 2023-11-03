@@ -1,0 +1,26 @@
+.forgot-password {
+    font-weight: 400;
+    margin-top: 0.3rem;
+    font-size: 1.1rem;
+    cursor: pointer;
+    width: 400px;
+    color: #183426;
+    opacity: 90%;
+}
+
+.forgot-password:hover {
+    opacity: 100%;
+}
+
+.register-password {
+    font-weight: 400;
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    cursor: pointer;
+    color: #183426;
+    opacity: 90%;
+}
+
+.register-password:hover {
+    opacity: 100%;
+}

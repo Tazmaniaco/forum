@@ -1,0 +1,9 @@
+@import url(../../../public/font.css);
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: ClashDisplay-Variable;
+}
